@@ -1,0 +1,378 @@
+[
+  {
+    "created": "2022-09-26T15:13:51.000Z",
+    "creator": {
+      "email": "vitaliyerm@gmail.com",
+      "self": true
+    },
+    "end": {
+      "dateTime": "2023-03-29T19:30:00.000+03:00",
+      "timeZone": "Europe/Moscow"
+    },
+    "etag": "\"3328410462782000\"",
+    "eventType": "default",
+    "htmlLink": "https://www.google.com/calendar/event?eid=NzJzdDZ1dWkwZWxsMThxZTdta2I0NTlzM3FfMjAyMzAzMjlUMTQwMDAwWiB2aXRhbGl5ZXJtQG0",
+    "iCalUID": "72st6uui0ell18qe7mkb459s3q@google.com",
+    "id": "72st6uui0ell18qe7mkb459s3q_20230329T140000Z",
+    "kind": "calendar#event",
+    "organizer": {
+      "email": "vitaliyerm@gmail.com",
+      "self": true
+    },
+    "originalStartTime": {
+      "dateTime": "2023-03-29T17:00:00.000+03:00",
+      "timeZone": "Europe/Moscow"
+    },
+    "recurringEventId": "72st6uui0ell18qe7mkb459s3q",
+    "reminders": {
+      "useDefault": true
+    },
+    "sequence": 0,
+    "start": {
+      "dateTime": "2023-03-29T17:00:00.000+03:00",
+      "timeZone": "Europe/Moscow"
+    },
+    "status": "confirmed",
+    "summary": "Елизавета. Гимнастика",
+    "updated": "2022-09-26T15:13:51.391Z"
+  },
+  {
+    "colorId": "4",
+    "created": "2022-09-26T13:05:31.000Z",
+    "creator": {
+      "email": "vitaliyerm@gmail.com",
+      "self": true
+    },
+    "end": {
+      "dateTime": "2023-03-30T16:20:00.000+03:00",
+      "timeZone": "Europe/Moscow"
+    },
+    "etag": "\"3328395063254000\"",
+    "eventType": "default",
+    "htmlLink": "https://www.google.com/calendar/event?eid=NG9kMDQxZW42ZTBsMHA5ZjV0aGl1N25mdmFfMjAyMzAzMzBUMTIwMDAwWiB2aXRhbGl5ZXJtQG0",
+    "iCalUID": "4od041en6e0l0p9f5thiu7nfva@google.com",
+    "id": "4od041en6e0l0p9f5thiu7nfva_20230330T120000Z",
+    "kind": "calendar#event",
+    "organizer": {
+      "email": "vitaliyerm@gmail.com",
+      "self": true
+    },
+    "originalStartTime": {
+      "dateTime": "2023-03-30T15:00:00.000+03:00",
+      "timeZone": "Europe/Moscow"
+    },
+    "recurringEventId": "4od041en6e0l0p9f5thiu7nfva",
+    "reminders": {
+      "useDefault": true
+    },
+    "sequence": 0,
+    "start": {
+      "dateTime": "2023-03-30T15:00:00.000+03:00",
+      "timeZone": "Europe/Moscow"
+    },
+    "status": "confirmed",
+    "summary": "Ксения. Хореография",
+    "updated": "2022-09-26T13:05:31.627Z"
+  },
+  {
+    "created": "2022-09-26T13:04:12.000Z",
+    "creator": {
+      "email": "vitaliyerm@gmail.com",
+      "self": true
+    },
+    "end": {
+      "dateTime": "2023-03-30T19:30:00.000+03:00",
+      "timeZone": "Europe/Moscow"
+    },
+    "etag": "\"3328394905260000\"",
+    "eventType": "default",
+    "htmlLink": "https://www.google.com/calendar/event?eid=NmR2cmx1ZXVxMGg4MzZvdmtvbG9hdWd1c2dfMjAyMzAzMzBUMTQwMDAwWiB2aXRhbGl5ZXJtQG0",
+    "iCalUID": "6dvrlueuq0h836ovkoloaugusg@google.com",
+    "id": "6dvrlueuq0h836ovkoloaugusg_20230330T140000Z",
+    "kind": "calendar#event",
+    "organizer": {
+      "email": "vitaliyerm@gmail.com",
+      "self": true
+    },
+    "originalStartTime": {
+      "dateTime": "2023-03-30T17:00:00.000+03:00",
+      "timeZone": "Europe/Moscow"
+    },
+    "recurringEventId": "6dvrlueuq0h836ovkoloaugusg",
+    "reminders": {
+      "useDefault": true
+    },
+    "sequence": 0,
+    "start": {
+      "dateTime": "2023-03-30T17:00:00.000+03:00",
+      "timeZone": "Europe/Moscow"
+    },
+    "status": "confirmed",
+    "summary": "Лиза. Гимнастика",
+    "updated": "2022-09-26T13:04:12.630Z"
+  },
+  {
+    "colorId": "2",
+    "created": "2022-09-26T15:23:11.000Z",
+    "creator": {
+      "email": "vitaliyerm@gmail.com",
+      "self": true
+    },
+    "end": {
+      "dateTime": "2023-03-31T14:20:00.000+03:00",
+      "timeZone": "Europe/Moscow"
+    },
+    "etag": "\"3328411582968000\"",
+    "eventType": "default",
+    "htmlLink": "https://www.google.com/calendar/event?eid=MjZpY3FuNHZyNXQ3dTQ3cTk1NHVnMzRpbXJfMjAyMzAzMzFUMTAzNTAwWiB2aXRhbGl5ZXJtQG0",
+    "iCalUID": "26icqn4vr5t7u47q954ug34imr@google.com",
+    "id": "26icqn4vr5t7u47q954ug34imr_20230331T103500Z",
+    "kind": "calendar#event",
+    "organizer": {
+      "email": "vitaliyerm@gmail.com",
+      "self": true
+    },
+    "originalStartTime": {
+      "dateTime": "2023-03-31T13:35:00.000+03:00",
+      "timeZone": "Europe/Moscow"
+    },
+    "recurringEventId": "26icqn4vr5t7u47q954ug34imr",
+    "reminders": {
+      "useDefault": true
+    },
+    "sequence": 0,
+    "start": {
+      "dateTime": "2023-03-31T13:35:00.000+03:00",
+      "timeZone": "Europe/Moscow"
+    },
+    "status": "confirmed",
+    "summary": "Полина. Литературный салон",
+    "updated": "2022-09-26T15:23:11.484Z"
+  },
+  {
+    "created": "2022-09-26T13:07:43.000Z",
+    "creator": {
+      "email": "vitaliyerm@gmail.com",
+      "self": true
+    },
+    "end": {
+      "dateTime": "2023-03-31T17:00:00.000+03:00",
+      "timeZone": "Europe/Moscow"
+    },
+    "etag": "\"3328395327494000\"",
+    "eventType": "default",
+    "htmlLink": "https://www.google.com/calendar/event?eid=NzdyOGU1c2JxdXU3dDJkdHFtMjNvdDlzNWlfMjAyMzAzMzFUMTE0NTAwWiB2aXRhbGl5ZXJtQG0",
+    "iCalUID": "77r8e5sbquu7t2dtqm23ot9s5i@google.com",
+    "id": "77r8e5sbquu7t2dtqm23ot9s5i_20230331T114500Z",
+    "kind": "calendar#event",
+    "organizer": {
+      "email": "vitaliyerm@gmail.com",
+      "self": true
+    },
+    "originalStartTime": {
+      "dateTime": "2023-03-31T14:45:00.000+03:00",
+      "timeZone": "Europe/Moscow"
+    },
+    "recurringEventId": "77r8e5sbquu7t2dtqm23ot9s5i",
+    "reminders": {
+      "useDefault": true
+    },
+    "sequence": 0,
+    "start": {
+      "dateTime": "2023-03-31T14:45:00.000+03:00",
+      "timeZone": "Europe/Moscow"
+    },
+    "status": "confirmed",
+    "summary": "Лиза. Гимнастика. Мечта",
+    "updated": "2022-09-26T13:07:43.747Z"
+  },
+  {
+    "colorId": "4",
+    "created": "2022-09-26T13:09:25.000Z",
+    "creator": {
+      "email": "vitaliyerm@gmail.com",
+      "self": true
+    },
+    "end": {
+      "dateTime": "2023-03-31T17:00:00.000+03:00",
+      "timeZone": "Europe/Moscow"
+    },
+    "etag": "\"3328395530052000\"",
+    "eventType": "default",
+    "htmlLink": "https://www.google.com/calendar/event?eid=NTBrYW1oM2Vvb2RocmtjOTRpMDJwcHBrbW5fMjAyMzAzMzFUMTIwMDAwWiB2aXRhbGl5ZXJtQG0",
+    "iCalUID": "50kamh3eoodhrkc94i02pppkmn@google.com",
+    "id": "50kamh3eoodhrkc94i02pppkmn_20230331T120000Z",
+    "kind": "calendar#event",
+    "organizer": {
+      "email": "vitaliyerm@gmail.com",
+      "self": true
+    },
+    "originalStartTime": {
+      "dateTime": "2023-03-31T15:00:00.000+03:00",
+      "timeZone": "Europe/Moscow"
+    },
+    "recurringEventId": "50kamh3eoodhrkc94i02pppkmn",
+    "reminders": {
+      "useDefault": true
+    },
+    "sequence": 0,
+    "start": {
+      "dateTime": "2023-03-31T15:00:00.000+03:00",
+      "timeZone": "Europe/Moscow"
+    },
+    "status": "confirmed",
+    "summary": "Ксения. Народные",
+    "updated": "2022-09-26T13:09:25.026Z"
+  },
+  {
+    "colorId": "2",
+    "created": "2022-09-26T15:24:14.000Z",
+    "creator": {
+      "email": "vitaliyerm@gmail.com",
+      "self": true
+    },
+    "end": {
+      "dateTime": "2023-03-31T16:00:00.000+03:00",
+      "timeZone": "Europe/Moscow"
+    },
+    "etag": "\"3328411709638000\"",
+    "eventType": "default",
+    "htmlLink": "https://www.google.com/calendar/event?eid=MWQxdmlwazFjOGxrdGNtazRrMWQ3cHJrOHRfMjAyMzAzMzFUMTIyMDAwWiB2aXRhbGl5ZXJtQG0",
+    "iCalUID": "1d1vipk1c8lktcmk4k1d7prk8t@google.com",
+    "id": "1d1vipk1c8lktcmk4k1d7prk8t_20230331T122000Z",
+    "kind": "calendar#event",
+    "organizer": {
+      "email": "vitaliyerm@gmail.com",
+      "self": true
+    },
+    "originalStartTime": {
+      "dateTime": "2023-03-31T15:20:00.000+03:00",
+      "timeZone": "Europe/Moscow"
+    },
+    "recurringEventId": "1d1vipk1c8lktcmk4k1d7prk8t",
+    "reminders": {
+      "useDefault": true
+    },
+    "sequence": 0,
+    "start": {
+      "dateTime": "2023-03-31T15:20:00.000+03:00",
+      "timeZone": "Europe/Moscow"
+    },
+    "status": "confirmed",
+    "summary": "Полина. Хор",
+    "updated": "2022-09-26T15:24:14.819Z"
+  },
+  {
+    "colorId": "4",
+    "created": "2022-09-26T13:10:21.000Z",
+    "creator": {
+      "email": "vitaliyerm@gmail.com",
+      "self": true
+    },
+    "end": {
+      "dateTime": "2023-03-31T18:30:00.000+03:00",
+      "timeZone": "Europe/Moscow"
+    },
+    "etag": "\"3328395642802000\"",
+    "eventType": "default",
+    "htmlLink": "https://www.google.com/calendar/event?eid=Mzluc29ndmYzdGFyN25pcDlmNGJhMXZjYW5fMjAyMzAzMzFUMTQwMDAwWiB2aXRhbGl5ZXJtQG0",
+    "iCalUID": "39nsogvf3tar7nip9f4ba1vcan@google.com",
+    "id": "39nsogvf3tar7nip9f4ba1vcan_20230331T140000Z",
+    "kind": "calendar#event",
+    "organizer": {
+      "email": "vitaliyerm@gmail.com",
+      "self": true
+    },
+    "originalStartTime": {
+      "dateTime": "2023-03-31T17:00:00.000+03:00",
+      "timeZone": "Europe/Moscow"
+    },
+    "recurringEventId": "39nsogvf3tar7nip9f4ba1vcan",
+    "reminders": {
+      "useDefault": true
+    },
+    "sequence": 0,
+    "start": {
+      "dateTime": "2023-03-31T17:00:00.000+03:00",
+      "timeZone": "Europe/Moscow"
+    },
+    "status": "confirmed",
+    "summary": "Ксения. Ансамбль",
+    "updated": "2022-09-26T13:10:21.401Z"
+  },
+  {
+    "created": "2022-09-26T13:08:34.000Z",
+    "creator": {
+      "email": "vitaliyerm@gmail.com",
+      "self": true
+    },
+    "end": {
+      "dateTime": "2023-03-31T18:30:00.000+03:00",
+      "timeZone": "Europe/Moscow"
+    },
+    "etag": "\"3328395428730000\"",
+    "eventType": "default",
+    "htmlLink": "https://www.google.com/calendar/event?eid=NGRjbjFrYjFsaGswamNoMjliaWI2b3RidTBfMjAyMzAzMzFUMTQyMDAwWiB2aXRhbGl5ZXJtQG0",
+    "iCalUID": "4dcn1kb1lhk0jch29bib6otbu0@google.com",
+    "id": "4dcn1kb1lhk0jch29bib6otbu0_20230331T142000Z",
+    "kind": "calendar#event",
+    "organizer": {
+      "email": "vitaliyerm@gmail.com",
+      "self": true
+    },
+    "originalStartTime": {
+      "dateTime": "2023-03-31T17:20:00.000+03:00",
+      "timeZone": "Europe/Moscow"
+    },
+    "recurringEventId": "4dcn1kb1lhk0jch29bib6otbu0",
+    "reminders": {
+      "useDefault": true
+    },
+    "sequence": 0,
+    "start": {
+      "dateTime": "2023-03-31T17:20:00.000+03:00",
+      "timeZone": "Europe/Moscow"
+    },
+    "status": "confirmed",
+    "summary": "Лиза. Ансамбль",
+    "updated": "2022-09-26T13:08:34.365Z"
+  },
+  {
+    "colorId": "4",
+    "created": "2022-09-26T13:12:39.000Z",
+    "creator": {
+      "email": "vitaliyerm@gmail.com",
+      "self": true
+    },
+    "end": {
+      "dateTime": "2023-03-31T19:20:00.000+03:00",
+      "timeZone": "Europe/Moscow"
+    },
+    "etag": "\"3328395918136000\"",
+    "eventType": "default",
+    "htmlLink": "https://www.google.com/calendar/event?eid=N3RzazA3M3U3Y2I3NG1udmQwYzNqY2JkdTZfMjAyMzAzMzFUMTU0MDAwWiB2aXRhbGl5ZXJtQG0",
+    "iCalUID": "7tsk073u7cb74mnvd0c3jcbdu6@google.com",
+    "id": "7tsk073u7cb74mnvd0c3jcbdu6_20230331T154000Z",
+    "kind": "calendar#event",
+    "organizer": {
+      "email": "vitaliyerm@gmail.com",
+      "self": true
+    },
+    "originalStartTime": {
+      "dateTime": "2023-03-31T18:40:00.000+03:00",
+      "timeZone": "Europe/Moscow"
+    },
+    "recurringEventId": "7tsk073u7cb74mnvd0c3jcbdu6",
+    "reminders": {
+      "useDefault": true
+    },
+    "sequence": 0,
+    "start": {
+      "dateTime": "2023-03-31T18:40:00.000+03:00",
+      "timeZone": "Europe/Moscow"
+    },
+    "status": "confirmed",
+    "summary": "Ксения. Скрипка",
+    "updated": "2022-09-26T13:12:39.068Z"
+  }
+]
