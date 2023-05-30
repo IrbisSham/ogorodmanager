@@ -118,10 +118,9 @@ class GoogleTaskAPI {
     }
 
     @Throws(IOException::class, GeneralSecurityException::class)
-    fun insertTask(service: Tasks, tasklistId: String, task: Task): List<TaskList> {
-        service.tasks().insert(tasklistId, task);
+    fun insertTask(service: Tasks, tasklistId: String, task: Task): Tasks.TasksOperations.Insert {
+        return service.tasks().insert(tasklistId, task);
     }
-
 
 //    @Throws(IOException::class, GeneralSecurityException::class)
 //    fun updateTask(service: Tasks, count: Int): List<TaskList> {

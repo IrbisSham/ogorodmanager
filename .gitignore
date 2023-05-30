@@ -35,3 +35,6 @@ out/
 
 ### VS Code ###
 .vscode/
+src/main/resources/credentials.json
+src/test/resources/baseCredentials.json
+src/test/resources/serviceCredentials.json
